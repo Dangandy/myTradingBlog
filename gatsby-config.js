@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Trading Blog`,
+    title: `AD Trading`,
     author: `Andy Dang`,
     description: `A trading blog that encapsulates my ForEx journey.`,
-    siteUrl: `TBD`,
+    siteUrl: `https://andydangtrading.netlify.com/`,
     social: {
       tradingview: 'Dangos'
     },
