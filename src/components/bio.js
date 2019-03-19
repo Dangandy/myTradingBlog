@@ -37,10 +37,9 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
-              Written by <strong>{author}</strong> who is currently unemployed.
-              {` `}
-              <a href={`https://www.tradingview.com/u/${social.tradingview}`}>
+          <p style={{ maxWidth: 550 }}>
+              Written by <strong>{author}</strong> who is currently unemployed.{` `}
+              <a href={`https://www.tradingview.com/u/${social.tradingview}`}>{` `}
                 You should follow him on Tradingview
               </a>
             </p>

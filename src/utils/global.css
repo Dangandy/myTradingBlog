@@ -1,0 +1,10 @@
+body {
+  --bg: #ffffff;
+  --header: #425d4d;
+  --textNormal: #222;
+  --textTitle: #222;
+  --textLink: #425d4d;
+  --hr: hsla(120, 0%, 0%, 0.2);
+  --inlineCode-bg: rgba(255, 229, 100, 0.2);
+  --inlineCode-text: #1a1a1a;
+}
