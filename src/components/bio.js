@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
           <p style={{ maxWidth: 550 }}>
-              Written by <strong>{author}</strong> who is currently unemployed.{` `}
+              Written by <strong>{author}</strong> who is trading enthusiast.{` `}
               <a href={`https://www.tradingview.com/u/${social.tradingview}`}>{` `}
                 You should follow him on Tradingview
               </a>
