@@ -28,7 +28,9 @@ After my little success, I stopped putting in stop loss because I thought the ra
 
 ![secondWeek](https://media.giphy.com/media/THfBY7x23FJor2OqLy/giphy.gif)
 
-Bitcoin defied all logic and continued to go up 9 days straight, causing my positions to be margin called, and resulting in wiping my account.
+Bitcoin defied all logic and continued to go up 9 days straight and throughout this bull run, I was in denial and thought a correction was due soon. This caused my positions to be margin called, and resulting in wiping my account out.
+
+On the bright side, I entered this market well knowing I can lose it all and thus reduced my inital balance to \$100, but then again, I did not expect to wipe my account in 2 weeks. This is a new learning experience for me, but it definitely won't stop me from trying again.
 
 ---
 
