@@ -5,7 +5,7 @@ module.exports = {
     description: `A trading blog that encapsulates my ForEx journey.`,
     siteUrl: `https://andydangtrading.netlify.com/`,
     social: {
-      tradingview: 'Dangos'
+      tradingview: "Dangos",
     },
   },
   plugins: [
@@ -40,7 +40,13 @@ module.exports = {
             },
           },
           `gatsby-remark-prismjs`,
-          `gatsby-remark-copy-linked-files`,
+          {
+            resolve: "gatsby-remark-copy-linked-files",
+            options: {
+              destinationDir: "path/to/dir",
+              maxWidth: 800,
+            },
+          },
           `gatsby-remark-smartypants`,
         ],
       },
